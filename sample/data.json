@@ -1,0 +1,181 @@
+{
+    "students": [
+        {
+            "first_name": "Student1", 
+            "last_name": "Something1", 
+            "email": "student1@college"
+        }, 
+        {
+            "first_name": "Student2", 
+            "last_name": "Something2", 
+            "email": "student2@college"
+        }, 
+        {
+            "first_name": "Student3", 
+            "last_name": "Something3", 
+            "email": "student3@college"
+        }, 
+        {
+            "first_name": "Student4", 
+            "last_name": "Something4", 
+            "email": "student4@college"
+        }, 
+        {
+            "first_name": "Student5", 
+            "last_name": "Something5", 
+            "email": "student5@college"
+        }, 
+        {
+            "first_name": "Student6", 
+            "last_name": "Something6", 
+            "email": "student6@college"
+        }, 
+        {
+            "first_name": "Student7", 
+            "last_name": "Something7", 
+            "email": "student7@college"
+        }, 
+        {
+            "first_name": "Student8", 
+            "last_name": "Something8", 
+            "email": "student8@college"
+        }, 
+        {
+            "first_name": "Student9", 
+            "last_name": "Something9", 
+            "email": "student9@college"
+        }, 
+        {
+            "first_name": "Student10", 
+            "last_name": "Something10", 
+            "email": "student10@college"
+        }, 
+        {
+            "first_name": "Student11", 
+            "last_name": "Something11", 
+            "email": "student11@college"
+        }, 
+        {
+            "first_name": "Student12", 
+            "last_name": "Something12", 
+            "email": "student12@college"
+        }, 
+        {
+            "first_name": "Student13", 
+            "last_name": "Something13", 
+            "email": "student13@college"
+        }, 
+        {
+            "first_name": "Student14", 
+            "last_name": "Something14", 
+            "email": "student14@college"
+        }, 
+        {
+            "first_name": "Student15", 
+            "last_name": "Something15", 
+            "email": "student15@college"
+        }, 
+        {
+            "first_name": "Student16", 
+            "last_name": "Something16", 
+            "email": "student16@college"
+        }, 
+        {
+            "first_name": "Student17", 
+            "last_name": "Something17", 
+            "email": "student17@college"
+        }, 
+        {
+            "first_name": "Student18", 
+            "last_name": "Something18", 
+            "email": "student18@college"
+        }, 
+        {
+            "first_name": "Student19", 
+            "last_name": "Something19", 
+            "email": "student19@college"
+        }, 
+        {
+            "first_name": "Student20", 
+            "last_name": "Something20", 
+            "email": "student20@college"
+        }, 
+        {
+            "first_name": "Student21", 
+            "last_name": "Something21", 
+            "email": "student21@college"
+        }, 
+        {
+            "first_name": "Student22", 
+            "last_name": "Something22", 
+            "email": "student22@college"
+        }, 
+        {
+            "first_name": "Student23", 
+            "last_name": "Something23", 
+            "email": "student23@college"
+        }, 
+        {
+            "first_name": "Student24", 
+            "last_name": "Something24", 
+            "email": "student24@college"
+        }, 
+        {
+            "first_name": "Student25", 
+            "last_name": "Something25", 
+            "email": "student25@college"
+        }
+    ], 
+    "courses": [
+        {
+            "max_marks": 70, 
+            "name": "course1", 
+            "tenure": 8
+        }, 
+        {
+            "max_marks": 80, 
+            "name": "course2", 
+            "tenure": 8
+        }, 
+        {
+            "max_marks": 100, 
+            "name": "course3", 
+            "tenure": 12
+        }, 
+        {
+            "max_marks": 80, 
+            "name": "course4", 
+            "tenure": 6
+        }, 
+        {
+            "max_marks": 60, 
+            "name": "course5", 
+            "tenure": 12
+        }, 
+        {
+            "max_marks": 70, 
+            "name": "course6", 
+            "tenure": 8
+        }, 
+        {
+            "max_marks": 60, 
+            "name": "course7", 
+            "tenure": 8
+        }, 
+        {
+            "max_marks": 50, 
+            "name": "course8", 
+            "tenure": 6
+        }, 
+        {
+            "max_marks": 60, 
+            "name": "course9", 
+            "tenure": 12
+        }, 
+        {
+            "max_marks": 70, 
+            "name": "course10", 
+            "tenure": 8
+        }
+    ]
+}
